@@ -3,7 +3,7 @@ package request
 import (
 	"net/url"
 
-	"github.com/mimicode/taobaoopensdk/utils"
+	"github.com/phanletrunghieu/taobaoopensdk/utils"
 )
 
 //taobao.tbk.shop.convert( 淘宝客店铺链接转换 )

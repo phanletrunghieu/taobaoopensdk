@@ -3,7 +3,7 @@ package request
 import (
 	"net/url"
 
-	"github.com/mimicode/taobaoopensdk/utils"
+	"github.com/phanletrunghieu/taobaoopensdk/utils"
 )
 
 //taobao.tbk.sc.newuser.order.sum( 拉新活动汇总API--社交 )

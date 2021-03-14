@@ -3,7 +3,7 @@ package request
 import (
 	"net/url"
 
-	"github.com/mimicode/taobaoopensdk/utils"
+	"github.com/phanletrunghieu/taobaoopensdk/utils"
 )
 
 //taobao.tbk.dg.newuser.order.get( 淘宝客新用户订单API--导购 )

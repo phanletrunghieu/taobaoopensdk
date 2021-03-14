@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mimicode/taobaoopensdk/utils"
+	"github.com/phanletrunghieu/taobaoopensdk/utils"
 )
 
 const (

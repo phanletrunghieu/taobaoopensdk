@@ -3,7 +3,7 @@ package request
 import (
 	"net/url"
 
-	"github.com/mimicode/taobaoopensdk/utils"
+	"github.com/phanletrunghieu/taobaoopensdk/utils"
 )
 
 //taobao.tbk.dg.item.coupon.get( 好券清单API【导购】 )

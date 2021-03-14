@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mimicode/taobaoopensdk/request"
-	"github.com/mimicode/taobaoopensdk/response"
+	"github.com/phanletrunghieu/taobaoopensdk/request"
+	"github.com/phanletrunghieu/taobaoopensdk/response"
 )
 
 func TestTbkiteminfoget(t *testing.T) {

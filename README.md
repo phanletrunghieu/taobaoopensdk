@@ -5,13 +5,13 @@
 Download and install it:
 
 ```sh
-$ go get -u github.com/mimicode/taobaoopensdk
+$ go get -u github.com/phanletrunghieu/taobaoopensdk
 ```
 
 Import it in your code:
 
 ```go
-import "github.com/mimicode/taobaoopensdk"
+import "github.com/phanletrunghieu/taobaoopensdk"
 ```
 
 Examples

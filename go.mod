@@ -1,3 +1,3 @@
-module github.com/mimicode/taobaoopensdk
+module github.com/phanletrunghieu/taobaoopensdk
 
 go 1.15
